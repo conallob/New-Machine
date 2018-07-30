@@ -2,7 +2,7 @@
 
 ## The Fundamentals
 
-* [https://www.google.com/chrome/](Google Chrome)
+[https://www.google.com/chrome/](Google Chrome)
 
 * [https://itunes.apple.com/ie/app/1password-7-password-manager/id1333542190?mt=12](1Password)
 
