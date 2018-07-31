@@ -2,11 +2,11 @@
 
 # The Fundamentals
 
-[Google Chrome](https://www.google.com/chrome/)
+* [Google Chrome](https://www.google.com/chrome/)
 
-[https://itunes.apple.com/ie/app/1password-7-password-manager/id1333542190?mt=12](1Password)
+* [1Password](https://itunes.apple.com/ie/app/1password-7-password-manager/id1333542190?mt=12)
 
-[https://www.google.com/drive/download/](Google Drive Sync)
+* [Google Drive Sync](https://www.google.com/drive/download/)
 
 # OSX App Store
 
