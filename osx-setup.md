@@ -1,6 +1,8 @@
 # OSX Vanilla Install Setup
 
-# The Fundamentals
+# Software
+
+## The Fundamentals
 
 * [Google Chrome](https://www.google.com/chrome/)
 
@@ -8,13 +10,13 @@
 
 * [Google Drive Sync](https://www.google.com/drive/download/)
 
-# OSX App Store
+## OSX App Store
 
 * [OmniFocus](https://itunes.apple.com/ie/app/omnifocus-2/id867299399?mt=12)
 
 * [FlyCut Clipboard Manager](https://itunes.apple.com/ie/app/flycut-clipboard-manager/id442160987?mt=12)
 
-# Additional Software
+## Additional Software
 
 * [Alred](https://www.alfredapp.com/)
 
@@ -23,3 +25,15 @@
 * [Spotify](https://www.spotify.com/ie/download/)
 
 * [Sonos Controller](https://www.sonos.com/redir/controller_software_mac)
+
+* [MacPorts](https://www.macports.org/install.php) (For `python`, `py-gflags`, `mercurial`, etc)
+
+# Configuration
+
+* [iCloud](https://www.icloud.com)
+
+* Terminal.app Profile
+
+* Mission Control
+
+* Keyboard -> Shortcuts -> Mission Control Spaces
