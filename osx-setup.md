@@ -10,16 +10,16 @@
 
 # OSX App Store
 
-[https://itunes.apple.com/ie/app/omnifocus-2/id867299399?mt=12](OmniFocus)
+* [OmniFocus](https://itunes.apple.com/ie/app/omnifocus-2/id867299399?mt=12)
 
-[https://itunes.apple.com/ie/app/flycut-clipboard-manager/id442160987?mt=12](FlyCut Clipboard Manager)
+* [FlyCut Clipboard Manager](https://itunes.apple.com/ie/app/flycut-clipboard-manager/id442160987?mt=12)
 
 # Additional Software
 
-[https://www.alfredapp.com/](Alred)
+* [Alred](https://www.alfredapp.com/)
 
-[https://www.macbartender.com/](Bartender)
+* [Bartender](https://www.macbartender.com/)
 
-[https://www.spotify.com/ie/download/](Spotify)
+* [Spotify](https://www.spotify.com/ie/download/)
 
-[https://www.sonos.com/redir/controller_software_mac](Sonos Controller)
+* [Sonos Controller](https://www.sonos.com/redir/controller_software_mac)
