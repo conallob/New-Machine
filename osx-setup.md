@@ -28,6 +28,8 @@
 
 * [MacPorts](https://www.macports.org/install.php) (For `python`, `py-gflags`, `mercurial`, etc)
 
+* [Google+ Photos Screen Saver](https://plus.google.com/featuredphotos)
+
 # Configuration
 
 * [iCloud](https://www.icloud.com)
