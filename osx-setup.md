@@ -32,8 +32,6 @@
 
 * [Snapmaker Luban](https://luban.xyz/)
 
-* [Google+ Photos Screen Saver](https://plus.google.com/featuredphotos)
-
 # Configuration
 
 * [iCloud](https://www.icloud.com)
