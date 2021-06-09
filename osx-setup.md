@@ -18,15 +18,19 @@
 
 ## Additional Software
 
-* [Alred](https://www.alfredapp.com/)
+* [Alfred](https://www.alfredapp.com/)
+
+* [Timeular](https://timeular.com/download/)
 
 * [Bartender](https://www.macbartender.com/)
 
 * [Spotify](https://www.spotify.com/ie/download/)
 
-* [Sonos Controller](https://www.sonos.com/redir/controller_software_mac)
+## Optional Extras
 
 * [MacPorts](https://www.macports.org/install.php) (For `python`, `py-gflags`, `mercurial`, etc)
+
+* [Snapmaker Luban](https://luban.xyz/)
 
 * [Google+ Photos Screen Saver](https://plus.google.com/featuredphotos)
 
