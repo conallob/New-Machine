@@ -32,6 +32,8 @@
 
 - [ ] [Snapmaker Luban](https://luban.xyz/)
 
+- [ ] [8Bitdo Firmware Updater](https://support.8bitdo.com/firmware-updater.html)
+
 ### Work Machines
 
 - [ ] [Timeular](https://timeular.com/download/)
