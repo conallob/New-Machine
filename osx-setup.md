@@ -24,6 +24,8 @@
 
 - [ ] [Spotify](https://www.spotify.com/ie/download/)
 
+- [ ] [AppZapper](https://www.appzapper.com)
+
 ## Optional Extras
 
 ### Personal Machines
