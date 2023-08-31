@@ -22,6 +22,8 @@
 
 - [ ] [Bartender](https://www.macbartender.com/)
 
+- [ ] [Remarkable Desktop](https://downloads.remarkable.com/)
+
 - [ ] [Spotify](https://www.spotify.com/ie/download/)
 
 - [ ] [AppZapper](https://www.appzapper.com)
