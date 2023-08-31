@@ -28,6 +28,8 @@
 
 - [ ] [AppZapper](https://www.appzapper.com)
 
+- [ ] [DisplayLink Kernel Extension](https://www.synaptics.com/products/displaylink-graphics/downloads)
+
 ## Optional Extras
 
 ### Personal Machines
