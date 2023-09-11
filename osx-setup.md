@@ -40,9 +40,11 @@
 
 - [ ] [8Bitdo Firmware Updater](https://support.8bitdo.com/firmware-updater.html)
 
-### Work Machines
+### Home Office
 
 - [ ] [Timeular](https://timeular.com/download/)
+
+- [ ] [Stream Deck](https://www.elgato.com/us/en/s/downloads)
 
 # Configuration
 
