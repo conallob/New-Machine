@@ -36,6 +36,8 @@
 
 - [ ] [MacPorts](https://www.macports.org/install.php) (For `python`, `py-gflags`, `mercurial`, etc)
 
+- [ ] [Home Assistant](https://apps.apple.com/ie/app/home-assistant/id1099568401)
+
 - [ ] [Snapmaker Luban](https://luban.xyz/)
 
 - [ ] [8Bitdo Firmware Updater](https://support.8bitdo.com/firmware-updater.html)
