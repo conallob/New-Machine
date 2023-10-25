@@ -2,6 +2,10 @@
 
 # Software
 
+## Prerequisites
+
+- [ ] [Homebrew](https://github.com/Homebrew/brew/releases/latest)
+
 ## The Fundamentals
 
 - [ ] [Google Chrome](https://www.google.com/chrome/)
@@ -10,11 +14,17 @@
 
 - [ ] [Google Drive Sync](https://www.google.com/drive/download/)
 
+```
+  brew install --cask google-chrome google-drive 1password
+```
+
 ## OSX App Store
 
 - [ ] [OmniFocus](https://itunes.apple.com/ie/app/omnifocus-2/id867299399?mt=12)
 
 - [ ] [FlyCut Clipboard Manager](https://itunes.apple.com/ie/app/flycut-clipboard-manager/id442160987?mt=12)
+
+- [ ] [Home Assistant](https://apps.apple.com/ie/app/home-assistant/id1099568401)
 
 ## Additional Software
 
@@ -30,23 +40,31 @@
 
 - [ ] [DisplayLink Kernel Extension](https://www.synaptics.com/products/displaylink-graphics/downloads)
 
+```
+  brew install --cask alfred bartender remarkable spotify appzapper displaylink
+```
+
 ## Optional Extras
 
 ### Personal Machines
-
-- [ ] [MacPorts](https://www.macports.org/install.php) (For `python`, `py-gflags`, `mercurial`, etc)
-
-- [ ] [Home Assistant](https://apps.apple.com/ie/app/home-assistant/id1099568401)
 
 - [ ] [Snapmaker Luban](https://luban.xyz/)
 
 - [ ] [8Bitdo Firmware Updater](https://support.8bitdo.com/firmware-updater.html)
 
-### Home Office
+```
+  brew install --cask snapmaker-luban 8bitdo-ultimate-software
+```
+
+### Productivity
 
 - [ ] [Timeular](https://timeular.com/download/)
 
 - [ ] [Stream Deck](https://www.elgato.com/us/en/s/downloads)
+
+```
+  brew install --cask timeular elgato-stream-deck
+```
 
 # Configuration
 
