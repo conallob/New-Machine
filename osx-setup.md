@@ -6,6 +6,10 @@
 
 - [ ] [Homebrew](https://github.com/Homebrew/brew/releases/latest)
 
+```
+  brew install go python@3.11 git
+```
+
 ## The Fundamentals
 
 - [ ] [Google Chrome](https://www.google.com/chrome/)
