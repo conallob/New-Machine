@@ -14,7 +14,7 @@
 
 - [ ] [Google Chrome](https://www.google.com/chrome/)
 
-- [ ] [1Password](https://itunes.apple.com/ie/app/1password-7-password-manager/id1333542190?mt=12)
+- [ ] [1Password](https://1password.com/downloads/mac/)
 
 - [ ] [Google Drive Sync](https://www.google.com/drive/download/)
 
