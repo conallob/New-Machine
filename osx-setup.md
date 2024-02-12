@@ -24,7 +24,7 @@
 
 ## OSX App Store
 
-- [ ] [OmniFocus](https://itunes.apple.com/ie/app/omnifocus-2/id867299399?mt=12)
+- [ ] [OmniFocus](https://apps.apple.com/ie/app/omnifocus-4/id1542143627)
 
 - [ ] [FlyCut Clipboard Manager](https://itunes.apple.com/ie/app/flycut-clipboard-manager/id442160987?mt=12)
 
