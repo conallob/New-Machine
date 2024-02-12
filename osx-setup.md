@@ -28,8 +28,6 @@
 
 - [ ] [FlyCut Clipboard Manager](https://itunes.apple.com/ie/app/flycut-clipboard-manager/id442160987?mt=12)
 
-- [ ] [Home Assistant](https://apps.apple.com/ie/app/home-assistant/id1099568401)
-
 ## Additional Software
 
 - [ ] [Alfred](https://www.alfredapp.com/)
@@ -51,6 +49,8 @@
 ## Optional Extras
 
 ### Personal Machines
+
+- [ ] [Home Assistant](https://apps.apple.com/ie/app/home-assistant/id1099568401)
 
 - [ ] [Snapmaker Luban](https://luban.xyz/)
 
