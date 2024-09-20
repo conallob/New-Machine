@@ -19,7 +19,7 @@
 - [ ] [Google Drive Sync](https://www.google.com/drive/download/)
 
 ```
-  brew install --cask google-chrome google-drive 1password
+  brew install --cask google-chrome google-drive 1password 1password-cli
 ```
 
 ## OSX App Store
