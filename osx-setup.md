@@ -7,7 +7,7 @@
 - [ ] [Homebrew](https://github.com/Homebrew/brew/releases/latest)
 
 ```
-  brew install go python@3.11 git
+  brew install go python@3.11 git chezmoi
 ```
 
 ## The Fundamentals
