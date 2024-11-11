@@ -66,8 +66,10 @@
 
 - [ ] [Stream Deck](https://www.elgato.com/us/en/s/downloads)
 
+- [ ] [GoLand](https://jetbrains.com/go)
+
 ```
-  brew install --cask timeular elgato-stream-deck
+  brew install --cask timeular elgato-stream-deck goland
 ```
 
 # Configuration
